@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classdebugtools_1_1GetApiKeyCommand" xml:lang="en-US">
+<title>debugtools.GetApiKeyCommand Class Reference</title>
+<indexterm><primary>debugtools.GetApiKeyCommand</primary></indexterm>
+Collaboration diagram for debugtools.GetApiKeyCommand:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classdebugtools_1_1GetApiKeyCommand__coll__graph.svg"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_classdebugtools_1_1GetApiKeyCommand_1a047568f894d55bca5d6929e5d05413d9">VardumpCommand</link> (<link linkend="_classdebugtools_1_1DebugReceiver">DebugReceiver</link> receiver)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classdebugtools_1_1GetApiKeyCommand_1a1b11aae6bbc890c848dc0187c37f24d6">Execute</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Private Attributes    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_classdebugtools_1_1DebugReceiver">DebugReceiver</link> <link linkend="_classdebugtools_1_1GetApiKeyCommand_1a08834aa9108833c4ddcdc8bcc6b8ad78">_receiver</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_classdebugtools_1_1GetApiKeyCommand_1a1b11aae6bbc890c848dc0187c37f24d6"/><section>
+    <title>Execute()</title>
+<indexterm><primary>Execute</primary><secondary>debugtools.GetApiKeyCommand</secondary></indexterm>
+<indexterm><primary>debugtools.GetApiKeyCommand</primary><secondary>Execute</secondary></indexterm>
+<para><computeroutput>void debugtools.GetApiKeyCommand.Execute ( )<computeroutput>[inline]</computeroutput></computeroutput></para>Here is the call graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classdebugtools_1_1GetApiKeyCommand_a1b11aae6bbc890c848dc0187c37f24d6_cgraph.svg"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classdebugtools_1_1GetApiKeyCommand_1a047568f894d55bca5d6929e5d05413d9"/><section>
+    <title>VardumpCommand()</title>
+<indexterm><primary>VardumpCommand</primary><secondary>debugtools.GetApiKeyCommand</secondary></indexterm>
+<indexterm><primary>debugtools.GetApiKeyCommand</primary><secondary>VardumpCommand</secondary></indexterm>
+<para><computeroutput>debugtools.GetApiKeyCommand.VardumpCommand (<link linkend="_classdebugtools_1_1DebugReceiver">DebugReceiver</link> receiver)<computeroutput>[inline]</computeroutput></computeroutput></para></section>
+</section>
+<section>
+<title>Member Data Documentation</title>
+<anchor xml:id="_classdebugtools_1_1GetApiKeyCommand_1a08834aa9108833c4ddcdc8bcc6b8ad78"/><section>
+    <title>_receiver</title>
+<indexterm><primary>_receiver</primary><secondary>debugtools.GetApiKeyCommand</secondary></indexterm>
+<indexterm><primary>debugtools.GetApiKeyCommand</primary><secondary>_receiver</secondary></indexterm>
+<para><computeroutput><link linkend="_classdebugtools_1_1DebugReceiver">DebugReceiver</link> debugtools.GetApiKeyCommand._receiver<computeroutput>[private]</computeroutput></computeroutput></para></section>
+<para>
+The documentation for this class was generated from the following file:</para>
+/tmp/github_repos_arch_doc_gen/Liam-PM/falling-blocks/unity/four-block/Assets/debugtools/<link linkend="_getapikey_8cs">getapikey.cs</link></section>
+</section>

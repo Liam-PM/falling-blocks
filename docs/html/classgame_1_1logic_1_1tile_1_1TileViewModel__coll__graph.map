@@ -1,0 +1,18 @@
+<map id="game.logic.tile.TileViewModel" name="game.logic.tile.TileViewModel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,588,176,708"/>
+<area shape="rect" id="Node000002" href="$classgame_1_1logic_1_1playfield_1_1PlayFieldViewModel.html" title=" " alt="" coords="196,345,375,525"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,528,158,578,154,574,201,524"/>
+<area shape="rect" id="Node000003" href="$interfacegamerunner_1_1IUpdatable.html" title=" " alt="" coords="492,183,577,248"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="510,261,486,293,458,323,418,356,377,385,374,381,415,352,454,319,482,289,505,258"/>
+<area shape="rect" id="Node000004" href="$classgame_1_1logic_1_1playfield_1_1PlayField.html" title=" " alt="" coords="63,165,241,265"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="184,264,224,330,220,332,180,267"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="19,13,50,78"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="39,78,53,268,85,571,79,572,48,268,34,78"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="47,77,60,107,77,137,88,151,83,155,72,140,55,110,42,79"/>
+<area shape="rect" id="Node000006" href="$interfacegame_1_1logic_1_1tile_1_1ITileable.html" title=" " alt="" coords="91,13,261,78"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="174,79,164,149,159,149,169,78"/>
+<area shape="rect" id="Node000007" href="$classgame_1_1service_1_1ServiceLocator.html" title=" " alt="" coords="265,163,468,268"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="350,269,327,331,322,329,345,267"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="286,5,463,85"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="375,86,373,146,367,146,370,85"/>
+</map>

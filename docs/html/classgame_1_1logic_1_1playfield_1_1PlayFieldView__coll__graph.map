@@ -1,0 +1,21 @@
+<map id="game.logic.playfield.PlayFieldView" name="game.logic.playfield.PlayFieldView">
+<area shape="rect" id="Node000001" title=" " alt="" coords="95,573,274,693"/>
+<area shape="rect" id="Node000002" href="$classMonoBehaviour.html" title=" " alt="" coords="5,388,121,453"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,464,153,572,148,575,86,467"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="145,388,224,453"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,453,187,557,182,557,182,453"/>
+<area shape="rect" id="Node000004" href="$classgame_1_1logic_1_1playfield_1_1PlayFieldViewModel.html" title=" " alt="" coords="249,331,427,511"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="302,512,278,551,268,563,264,559,273,548,297,509"/>
+<area shape="rect" id="Node000005" href="$interfacegamerunner_1_1IUpdatable.html" title=" " alt="" coords="139,183,225,248"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="217,258,272,329,268,332,213,261"/>
+<area shape="rect" id="Node000006" href="$classgame_1_1logic_1_1playfield_1_1PlayField.html" title=" " alt="" coords="249,165,427,265"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="341,266,341,314,335,314,335,266"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="205,13,236,78"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="230,77,240,108,255,137,266,152,262,155,250,140,235,110,225,79"/>
+<area shape="rect" id="Node000008" href="$interfacegame_1_1logic_1_1tile_1_1ITileable.html" title=" " alt="" coords="261,13,431,78"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="347,78,344,149,338,148,342,78"/>
+<area shape="rect" id="Node000009" href="$classgame_1_1service_1_1ServiceLocator.html" title=" " alt="" coords="451,163,654,268"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="500,270,441,325,438,322,496,266"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="464,5,641,85"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="555,85,555,146,550,146,550,85"/>
+</map>

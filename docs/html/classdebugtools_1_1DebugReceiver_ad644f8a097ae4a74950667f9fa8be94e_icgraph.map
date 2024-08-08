@@ -1,0 +1,7 @@
+<map id="debugtools.DebugReceiver.Action" name="debugtools.DebugReceiver.Action">
+<area shape="rect" id="Node000001" title=" " alt="" coords="291,37,491,77"/>
+<area shape="rect" id="Node000002" href="$classdebugtools_1_1GetApiKeyCommand.html#a1b11aae6bbc890c848dc0187c37f24d6" title=" " alt="" coords="5,5,243,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="277,46,243,42,243,37,277,41"/>
+<area shape="rect" id="Node000003" href="$classdebugtools_1_1VardumpCommand.html#a2773ee589b07964f169e82d28649b19a" title=" " alt="" coords="11,69,237,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="277,74,238,78,237,73,277,68"/>
+</map>

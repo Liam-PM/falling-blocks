@@ -1,0 +1,7 @@
+<map id="game.logic.EventQueue.EventQueue" name="game.logic.EventQueue.EventQueue">
+<area shape="rect" id="Node000001" title=" " alt="" coords="20,163,231,303"/>
+<area shape="rect" id="Node000002" href="$interfacegame_1_1service_1_1IService.html" title=" " alt="" coords="5,20,72,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="63,97,94,161,89,164,58,99"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="96,5,331,100"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,101,169,149,164,147,188,99"/>
+</map>

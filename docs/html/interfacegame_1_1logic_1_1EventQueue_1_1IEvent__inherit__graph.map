@@ -1,0 +1,7 @@
+<map id="game.logic.EventQueue.IEvent" name="game.logic.EventQueue.IEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="122,5,337,91"/>
+<area shape="rect" id="Node000002" href="$classgame_1_1logic_1_1EventQueue_1_1SpawnTileEvent.html" title=" " alt="" coords="5,139,221,259"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,103,162,140,157,137,186,100"/>
+<area shape="rect" id="Node000003" href="$classgame_1_1logic_1_1EventQueue_1_1UserLoginEvent.html" title=" " alt="" coords="245,139,448,259"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="273,100,302,137,298,140,269,103"/>
+</map>

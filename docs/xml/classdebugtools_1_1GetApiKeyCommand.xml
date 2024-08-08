@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.10.0" xml:lang="en-US">
+  <compounddef id="classdebugtools_1_1GetApiKeyCommand" kind="class" language="C#" prot="public">
+    <compoundname>debugtools::GetApiKeyCommand</compoundname>
+    <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classdebugtools_1_1GetApiKeyCommand_1a08834aa9108833c4ddcdc8bcc6b8ad78" prot="private" static="no" mutable="no">
+        <type><ref refid="classdebugtools_1_1DebugReceiver" kindref="compound">DebugReceiver</ref></type>
+        <definition>DebugReceiver debugtools.GetApiKeyCommand._receiver</definition>
+        <argsstring></argsstring>
+        <name>_receiver</name>
+        <qualifiedname>debugtools.GetApiKeyCommand._receiver</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/tmp/github_repos_arch_doc_gen/Liam-PM/falling-blocks/unity/four-block/Assets/debugtools/getapikey.cs" line="5" column="31" bodyfile="/tmp/github_repos_arch_doc_gen/Liam-PM/falling-blocks/unity/four-block/Assets/debugtools/getapikey.cs" bodystart="5" bodyend="-1"/>
+        <referencedby refid="classdebugtools_1_1GetApiKeyCommand_1a1b11aae6bbc890c848dc0187c37f24d6" compoundref="getapikey_8cs" startline="12" endline="15">debugtools.GetApiKeyCommand.Execute</referencedby>
+        <referencedby refid="classdebugtools_1_1GetApiKeyCommand_1a047568f894d55bca5d6929e5d05413d9" compoundref="getapikey_8cs" startline="7" endline="10">debugtools.GetApiKeyCommand.VardumpCommand</referencedby>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="public-func">
+      <memberdef kind="function" id="classdebugtools_1_1GetApiKeyCommand_1a047568f894d55bca5d6929e5d05413d9" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>debugtools.GetApiKeyCommand.VardumpCommand</definition>
+        <argsstring>(DebugReceiver receiver)</argsstring>
+        <name>VardumpCommand</name>
+        <qualifiedname>debugtools.GetApiKeyCommand.VardumpCommand</qualifiedname>
+        <param>
+          <type><ref refid="classdebugtools_1_1DebugReceiver" kindref="compound">DebugReceiver</ref></type>
+          <declname>receiver</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/tmp/github_repos_arch_doc_gen/Liam-PM/falling-blocks/unity/four-block/Assets/debugtools/getapikey.cs" line="7" column="16" bodyfile="/tmp/github_repos_arch_doc_gen/Liam-PM/falling-blocks/unity/four-block/Assets/debugtools/getapikey.cs" bodystart="7" bodyend="10"/>
+        <references refid="classdebugtools_1_1GetApiKeyCommand_1a08834aa9108833c4ddcdc8bcc6b8ad78" compoundref="getapikey_8cs" startline="5">debugtools.GetApiKeyCommand._receiver</references>
+      </memberdef>
+      <memberdef kind="function" id="classdebugtools_1_1GetApiKeyCommand_1a1b11aae6bbc890c848dc0187c37f24d6" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void debugtools.GetApiKeyCommand.Execute</definition>
+        <argsstring>()</argsstring>
+        <name>Execute</name>
+        <qualifiedname>debugtools.GetApiKeyCommand.Execute</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/tmp/github_repos_arch_doc_gen/Liam-PM/falling-blocks/unity/four-block/Assets/debugtools/getapikey.cs" line="12" column="21" bodyfile="/tmp/github_repos_arch_doc_gen/Liam-PM/falling-blocks/unity/four-block/Assets/debugtools/getapikey.cs" bodystart="12" bodyend="15"/>
+        <references refid="classdebugtools_1_1GetApiKeyCommand_1a08834aa9108833c4ddcdc8bcc6b8ad78" compoundref="getapikey_8cs" startline="5">debugtools.GetApiKeyCommand._receiver</references>
+        <references refid="classdebugtools_1_1DebugReceiver_1ad644f8a097ae4a74950667f9fa8be94e" compoundref="DebugReceiver_8cs" startline="8" endline="13">debugtools.DebugReceiver.Action</references>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="3">
+        <label>List&lt; string &gt;</label>
+      </node>
+      <node id="1">
+        <label>debugtools.GetApiKeyCommand</label>
+        <link refid="classdebugtools_1_1GetApiKeyCommand"/>
+        <childnode refid="2" relation="usage">
+          <edgelabel>-_receiver</edgelabel>
+        </childnode>
+      </node>
+      <node id="2">
+        <label>debugtools.DebugReceiver</label>
+        <link refid="classdebugtools_1_1DebugReceiver"/>
+        <childnode refid="3" relation="usage">
+          <edgelabel>-supportedCommands</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="/tmp/github_repos_arch_doc_gen/Liam-PM/falling-blocks/unity/four-block/Assets/debugtools/getapikey.cs" line="3" column="11" bodyfile="/tmp/github_repos_arch_doc_gen/Liam-PM/falling-blocks/unity/four-block/Assets/debugtools/getapikey.cs" bodystart="4" bodyend="16"/>
+    <listofallmembers>
+      <member refid="classdebugtools_1_1GetApiKeyCommand_1a08834aa9108833c4ddcdc8bcc6b8ad78" prot="private" virt="non-virtual"><scope>debugtools::GetApiKeyCommand</scope><name>_receiver</name></member>
+      <member refid="classdebugtools_1_1GetApiKeyCommand_1a1b11aae6bbc890c848dc0187c37f24d6" prot="public" virt="non-virtual"><scope>debugtools::GetApiKeyCommand</scope><name>Execute</name></member>
+      <member refid="classdebugtools_1_1GetApiKeyCommand_1a047568f894d55bca5d6929e5d05413d9" prot="public" virt="non-virtual"><scope>debugtools::GetApiKeyCommand</scope><name>VardumpCommand</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

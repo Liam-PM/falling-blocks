@@ -1,0 +1,15 @@
+<map id="MonoBehaviour" name="MonoBehaviour">
+<area shape="rect" id="Node000001" title=" " alt="" coords="372,5,488,71"/>
+<area shape="rect" id="Node000002" href="$classGameInitialiser.html" title=" " alt="" coords="5,126,135,251"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="359,53,256,77,201,97,149,121,136,129,133,124,146,116,199,92,255,72,358,48"/>
+<area shape="rect" id="Node000003" href="$classLoginButton.html" title=" " alt="" coords="159,126,274,251"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="361,76,288,121,276,130,273,126,284,116,358,71"/>
+<area shape="rect" id="Node000004" href="$classScoreSubmit.html" title=" " alt="" coords="299,136,399,241"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="408,84,379,137,375,134,404,82"/>
+<area shape="rect" id="Node000005" href="$classgame_1_1logic_1_1playfield_1_1PlayFieldView.html" title=" " alt="" coords="423,119,602,259"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="456,81,476,117,472,120,452,84"/>
+<area shape="rect" id="Node000006" href="$classgame_1_1logic_1_1tile_1_1TileView.html" title=" " alt="" coords="626,126,797,251"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="502,63,558,88,615,116,627,123,625,128,613,121,556,92,500,68"/>
+<area shape="rect" id="Node000007" href="$classgamerunner_1_1Dispatcher.html" title=" " alt="" coords="821,136,988,241"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="502,43,569,52,647,66,730,87,810,116,841,134,839,138,808,121,728,92,646,71,568,57,501,48"/>
+</map>

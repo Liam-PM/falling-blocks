@@ -1,0 +1,11 @@
+<map id="game.service.IService" name="game.service.IService">
+<area shape="rect" id="Node000001" title=" " alt="" coords="257,5,415,71"/>
+<area shape="rect" id="Node000002" href="$classgame_1_1logic_1_1EventQueue_1_1EventQueue.html" title=" " alt="" coords="5,199,216,339"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="279,81,231,121,195,159,162,200,158,197,191,156,228,117,276,77"/>
+<area shape="rect" id="Node000003" href="$interfacegame_1_1logic_1_1IGravityService.html" title=" " alt="" coords="241,236,431,301"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="339,85,339,236,333,236,333,85"/>
+<area shape="rect" id="Node000005" href="$classgame_1_1logic_1_1tilespawner_1_1TileSpawnerService.html" title=" " alt="" coords="456,119,661,419"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="398,77,446,117,458,129,454,133,442,121,394,81"/>
+<area shape="rect" id="Node000004" href="$classgame_1_1logic_1_1GravityService.html" title=" " alt="" coords="243,467,429,572"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="339,315,339,467,333,467,333,315"/>
+</map>

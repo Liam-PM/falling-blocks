@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classLoginButton" xml:lang="en-US">
+<title>LoginButton Class Reference</title>
+<indexterm><primary>LoginButton</primary></indexterm>
+Inheritance diagram for LoginButton:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classLoginButton__inherit__graph.svg"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+Collaboration diagram for LoginButton:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classLoginButton__coll__graph.svg"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>void <link linkend="_classLoginButton_1a1c96929dc9468a79eed79e00017b22e8">Link</link> (<link linkend="_classgame_1_1logic_1_1EventQueue_1_1EventQueue">EventQueue</link> eventQueue)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classLoginButton_1a4ee90c2092d433580a6adaa869b4a710">OnClick</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Private Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>void <link linkend="_classLoginButton_1adafe530db12f9279b0d8a62bf2a96094">Start</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classLoginButton_1a9a73fd8bd5020357d0da9470fe49427e">Update</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Private Attributes    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_classgame_1_1logic_1_1EventQueue_1_1EventQueue">EventQueue</link> <link linkend="_classLoginButton_1a3b663e2009ac5d95f1be7b815c801e91">_eventQueue</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_classLoginButton_1a1c96929dc9468a79eed79e00017b22e8"/><section>
+    <title>Link()</title>
+<indexterm><primary>Link</primary><secondary>LoginButton</secondary></indexterm>
+<indexterm><primary>LoginButton</primary><secondary>Link</secondary></indexterm>
+<para><computeroutput>void LoginButton.Link (<link linkend="_classgame_1_1logic_1_1EventQueue_1_1EventQueue">EventQueue</link> eventQueue)<computeroutput>[inline]</computeroutput></computeroutput></para>Here is the caller graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classLoginButton_a1c96929dc9468a79eed79e00017b22e8_icgraph.svg"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classLoginButton_1a4ee90c2092d433580a6adaa869b4a710"/><section>
+    <title>OnClick()</title>
+<indexterm><primary>OnClick</primary><secondary>LoginButton</secondary></indexterm>
+<indexterm><primary>LoginButton</primary><secondary>OnClick</secondary></indexterm>
+<para><computeroutput>void LoginButton.OnClick ( )<computeroutput>[inline]</computeroutput></computeroutput></para>Here is the call graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classLoginButton_a4ee90c2092d433580a6adaa869b4a710_cgraph.svg"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classLoginButton_1adafe530db12f9279b0d8a62bf2a96094"/><section>
+    <title>Start()</title>
+<indexterm><primary>Start</primary><secondary>LoginButton</secondary></indexterm>
+<indexterm><primary>LoginButton</primary><secondary>Start</secondary></indexterm>
+<para><computeroutput>void LoginButton.Start ( )<computeroutput>[inline]</computeroutput>, <computeroutput>[private]</computeroutput></computeroutput></para></section>
+<anchor xml:id="_classLoginButton_1a9a73fd8bd5020357d0da9470fe49427e"/><section>
+    <title>Update()</title>
+<indexterm><primary>Update</primary><secondary>LoginButton</secondary></indexterm>
+<indexterm><primary>LoginButton</primary><secondary>Update</secondary></indexterm>
+<para><computeroutput>void LoginButton.Update ( )<computeroutput>[inline]</computeroutput>, <computeroutput>[private]</computeroutput></computeroutput></para></section>
+</section>
+<section>
+<title>Member Data Documentation</title>
+<anchor xml:id="_classLoginButton_1a3b663e2009ac5d95f1be7b815c801e91"/><section>
+    <title>_eventQueue</title>
+<indexterm><primary>_eventQueue</primary><secondary>LoginButton</secondary></indexterm>
+<indexterm><primary>LoginButton</primary><secondary>_eventQueue</secondary></indexterm>
+<para><computeroutput><link linkend="_classgame_1_1logic_1_1EventQueue_1_1EventQueue">EventQueue</link> LoginButton._eventQueue<computeroutput>[private]</computeroutput></computeroutput></para></section>
+<para>
+The documentation for this class was generated from the following file:</para>
+/tmp/github_repos_arch_doc_gen/Liam-PM/falling-blocks/unity/four-block/Assets/<link linkend="_LoginButton_8cs">LoginButton.cs</link></section>
+</section>

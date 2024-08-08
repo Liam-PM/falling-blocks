@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.10.0" xml:lang="en-US">
+  <compounddef id="classnetwork_1_1user_1_1UserService" kind="class" language="C#" prot="public">
+    <compoundname>network::user::UserService</compoundname>
+    <sectiondef kind="public-func">
+      <memberdef kind="function" id="classnetwork_1_1user_1_1UserService_1ac4ef94bbb341b2f32a63ca022042f29d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>string</type>
+        <definition>string network.user.UserService.GetUserName</definition>
+        <argsstring>()</argsstring>
+        <name>GetUserName</name>
+        <qualifiedname>network.user.UserService.GetUserName</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/tmp/github_repos_arch_doc_gen/Liam-PM/falling-blocks/unity/four-block/Assets/network/user/UserService.cs" line="8" column="23" bodyfile="/tmp/github_repos_arch_doc_gen/Liam-PM/falling-blocks/unity/four-block/Assets/network/user/UserService.cs" bodystart="8" bodyend="17"/>
+        <referencedby refid="classLoginButton_1a4ee90c2092d433580a6adaa869b4a710" compoundref="LoginButton_8cs" startline="29" endline="34">LoginButton.OnClick</referencedby>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="1">
+        <label>network.user.UserService</label>
+        <link refid="classnetwork_1_1user_1_1UserService"/>
+      </node>
+    </collaborationgraph>
+    <location file="/tmp/github_repos_arch_doc_gen/Liam-PM/falling-blocks/unity/four-block/Assets/network/user/UserService.cs" line="6" column="11" bodyfile="/tmp/github_repos_arch_doc_gen/Liam-PM/falling-blocks/unity/four-block/Assets/network/user/UserService.cs" bodystart="7" bodyend="18"/>
+    <listofallmembers>
+      <member refid="classnetwork_1_1user_1_1UserService_1ac4ef94bbb341b2f32a63ca022042f29d" prot="public" virt="non-virtual"><scope>network::user::UserService</scope><name>GetUserName</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

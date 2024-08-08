@@ -1,0 +1,23 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$interfacegame_1_1logic_1_1IGravityStrategy.html" title=" " alt="" coords="227,45,432,70"/>
+<area shape="rect" id="Node000001" href="$classgame_1_1logic_1_1LevelBasedGravityStrategy.html" title=" " alt="" coords="487,5,708,45"/>
+<area shape="poly" id="edge3_Node000000_Node000001" title=" " alt="" coords="445,41,486,36,487,41,446,46"/>
+<area shape="rect" id="Node000002" href="$classgame_1_1logic_1_1TimeBasedGravityStrategy.html" title=" " alt="" coords="488,69,707,109"/>
+<area shape="poly" id="edge4_Node000000_Node000002" title=" " alt="" coords="446,69,488,74,488,79,445,74"/>
+<area shape="rect" id="Node000007" href="$interfacegame_1_1service_1_1IService.html" title=" " alt="" coords="5,249,172,274"/>
+<area shape="rect" id="Node000008" href="$classgame_1_1logic_1_1EventQueue_1_1EventQueue.html" title=" " alt="" coords="220,184,439,224"/>
+<area shape="poly" id="edge5_Node000007_Node000008" title=" " alt="" coords="155,243,244,221,246,227,157,248"/>
+<area shape="rect" id="Node000006" href="$interfacegame_1_1logic_1_1IGravityService.html" title=" " alt="" coords="230,249,429,274"/>
+<area shape="poly" id="edge6_Node000007_Node000006" title=" " alt="" coords="186,259,230,259,230,264,186,264"/>
+<area shape="rect" id="Node000009" href="$classgame_1_1logic_1_1tilespawner_1_1TileSpawnerService.html" title=" " alt="" coords="229,299,430,339"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="157,275,246,296,244,301,155,280"/>
+<area shape="rect" id="Node000005" href="$classgame_1_1logic_1_1GravityService.html" title=" " alt="" coords="500,249,695,274"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="442,259,500,259,500,264,442,264"/>
+<area shape="rect" id="Node000003" href="$interfacegamerunner_1_1IUpdatable.html" title=" " alt="" coords="242,134,417,159"/>
+<area shape="poly" id="edge11_Node000003_Node000002" title=" " alt="" coords="402,128,503,107,504,112,403,134"/>
+<area shape="poly" id="edge10_Node000003_Node000005" title=" " alt="" coords="427,162,440,170,457,186,465,203,473,219,488,234,514,246,512,251,485,238,469,222,460,205,452,189,437,174,424,167"/>
+<area shape="rect" id="Node000004" href="$classGameRunner.html" title=" " alt="" coords="544,134,651,159"/>
+<area shape="poly" id="edge9_Node000003_Node000004" title=" " alt="" coords="430,144,544,144,544,149,430,149"/>
+<area shape="rect" id="Node000010" href="$classgame_1_1logic_1_1playfield_1_1PlayFieldViewModel.html" title=" " alt="" coords="504,184,691,224"/>
+<area shape="poly" id="edge12_Node000003_Node000010" title=" " alt="" coords="404,160,504,181,503,187,402,165"/>
+</map>

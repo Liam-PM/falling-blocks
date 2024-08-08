@@ -1,0 +1,15 @@
+<map id="game.logic.playfield.PlayFieldViewModel" name="game.logic.playfield.PlayFieldViewModel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="115,331,293,511"/>
+<area shape="rect" id="Node000002" href="$interfacegamerunner_1_1IUpdatable.html" title=" " alt="" coords="5,183,91,248"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,258,138,329,134,332,79,261"/>
+<area shape="rect" id="Node000003" href="$classgame_1_1logic_1_1playfield_1_1PlayField.html" title=" " alt="" coords="115,165,293,265"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="207,266,207,314,201,314,201,266"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="71,13,102,78"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="96,77,106,108,121,137,132,152,128,155,116,140,101,110,91,79"/>
+<area shape="rect" id="Node000005" href="$interfacegame_1_1logic_1_1tile_1_1ITileable.html" title=" " alt="" coords="127,13,297,78"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="213,78,210,149,204,148,208,78"/>
+<area shape="rect" id="Node000006" href="$classgame_1_1service_1_1ServiceLocator.html" title=" " alt="" coords="317,163,520,268"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="366,270,307,325,304,322,362,266"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="330,5,507,85"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="421,85,421,146,416,146,416,85"/>
+</map>

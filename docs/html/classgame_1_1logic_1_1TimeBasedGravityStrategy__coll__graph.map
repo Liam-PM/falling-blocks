@@ -1,0 +1,9 @@
+<map id="game.logic.TimeBasedGravityStrategy" name="game.logic.TimeBasedGravityStrategy">
+<area shape="rect" id="Node000001" title=" " alt="" coords="72,183,283,303"/>
+<area shape="rect" id="Node000002" href="$interfacegamerunner_1_1IUpdatable.html" title=" " alt="" coords="5,15,91,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,91,140,181,135,184,75,94"/>
+<area shape="rect" id="Node000003" href="$interfacegame_1_1logic_1_1IGravityStrategy.html" title=" " alt="" coords="115,5,240,91"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,104,180,183,175,183,175,104"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="264,15,307,81"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="270,82,221,170,216,167,265,80"/>
+</map>
