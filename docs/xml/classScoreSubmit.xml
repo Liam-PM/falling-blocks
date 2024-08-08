@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.10.0" xml:lang="en-US">
+  <compounddef id="classScoreSubmit" kind="class" language="C#" prot="public">
+    <compoundname>ScoreSubmit</compoundname>
+    <basecompoundref refid="classMonoBehaviour" prot="public" virt="non-virtual">MonoBehaviour</basecompoundref>
+    <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classScoreSubmit_1a9d0dfa0e26d6c90d482cae0add0a5f5b" prot="private" static="no" mutable="no">
+        <type>TMP_InputField</type>
+        <definition>TMP_InputField ScoreSubmit._inputField</definition>
+        <argsstring></argsstring>
+        <name>_inputField</name>
+        <qualifiedname>ScoreSubmit._inputField</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/tmp/github_repos_arch_doc_gen/Liam-PM/falling-blocks/unity/four-block/Assets/ScoreSubmit.cs" line="13" column="29" bodyfile="/tmp/github_repos_arch_doc_gen/Liam-PM/falling-blocks/unity/four-block/Assets/ScoreSubmit.cs" bodystart="13" bodyend="-1"/>
+        <referencedby refid="classScoreSubmit_1ae8cd5fdf8c774668bd4d4cf0a005e2fc" compoundref="ScoreSubmit_8cs" startline="27" endline="32">Win</referencedby>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="private-func">
+      <memberdef kind="function" id="classScoreSubmit_1af0a6e59adba1ff8a2df8c95a55fe0697" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void ScoreSubmit.Start</definition>
+        <argsstring>()</argsstring>
+        <name>Start</name>
+        <qualifiedname>ScoreSubmit.Start</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/tmp/github_repos_arch_doc_gen/Liam-PM/falling-blocks/unity/four-block/Assets/ScoreSubmit.cs" line="16" column="10" bodyfile="/tmp/github_repos_arch_doc_gen/Liam-PM/falling-blocks/unity/four-block/Assets/ScoreSubmit.cs" bodystart="16" bodyend="19"/>
+      </memberdef>
+      <memberdef kind="function" id="classScoreSubmit_1ade4d0cc95fd6c77e0675b22697624ec0" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void ScoreSubmit.Update</definition>
+        <argsstring>()</argsstring>
+        <name>Update</name>
+        <qualifiedname>ScoreSubmit.Update</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/tmp/github_repos_arch_doc_gen/Liam-PM/falling-blocks/unity/four-block/Assets/ScoreSubmit.cs" line="22" column="10" bodyfile="/tmp/github_repos_arch_doc_gen/Liam-PM/falling-blocks/unity/four-block/Assets/ScoreSubmit.cs" bodystart="22" bodyend="25"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="public-func">
+      <memberdef kind="function" id="classScoreSubmit_1ae8cd5fdf8c774668bd4d4cf0a005e2fc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void ScoreSubmit.Win</definition>
+        <argsstring>()</argsstring>
+        <name>Win</name>
+        <qualifiedname>ScoreSubmit.Win</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/tmp/github_repos_arch_doc_gen/Liam-PM/falling-blocks/unity/four-block/Assets/ScoreSubmit.cs" line="27" column="17" bodyfile="/tmp/github_repos_arch_doc_gen/Liam-PM/falling-blocks/unity/four-block/Assets/ScoreSubmit.cs" bodystart="27" bodyend="32"/>
+        <references refid="classScoreSubmit_1a9d0dfa0e26d6c90d482cae0add0a5f5b" compoundref="ScoreSubmit_8cs" startline="13">_inputField</references>
+        <references refid="classnetwork_1_1score_1_1ScoreService_1a16e810a69e88ed2a6a64344fba676c07" compoundref="ScoreService_8cs" startline="8" endline="21">network.score.ScoreService.SubmitScore</references>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>MonoBehaviour</label>
+        <link refid="classMonoBehaviour"/>
+      </node>
+      <node id="1">
+        <label>ScoreSubmit</label>
+        <link refid="classScoreSubmit"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>MonoBehaviour</label>
+        <link refid="classMonoBehaviour"/>
+      </node>
+      <node id="1">
+        <label>ScoreSubmit</label>
+        <link refid="classScoreSubmit"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="usage">
+          <edgelabel>-_inputField</edgelabel>
+        </childnode>
+      </node>
+      <node id="3">
+        <label>TMP_InputField</label>
+      </node>
+    </collaborationgraph>
+    <location file="/tmp/github_repos_arch_doc_gen/Liam-PM/falling-blocks/unity/four-block/Assets/ScoreSubmit.cs" line="11" column="7" bodyfile="/tmp/github_repos_arch_doc_gen/Liam-PM/falling-blocks/unity/four-block/Assets/ScoreSubmit.cs" bodystart="12" bodyend="33"/>
+    <listofallmembers>
+      <member refid="classScoreSubmit_1a9d0dfa0e26d6c90d482cae0add0a5f5b" prot="private" virt="non-virtual"><scope>ScoreSubmit</scope><name>_inputField</name></member>
+      <member refid="classScoreSubmit_1af0a6e59adba1ff8a2df8c95a55fe0697" prot="private" virt="non-virtual"><scope>ScoreSubmit</scope><name>Start</name></member>
+      <member refid="classScoreSubmit_1ade4d0cc95fd6c77e0675b22697624ec0" prot="private" virt="non-virtual"><scope>ScoreSubmit</scope><name>Update</name></member>
+      <member refid="classScoreSubmit_1ae8cd5fdf8c774668bd4d4cf0a005e2fc" prot="public" virt="non-virtual"><scope>ScoreSubmit</scope><name>Win</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

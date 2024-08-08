@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.10.0" xml:lang="en-US">
+  <compounddef id="classgamerunner_1_1Dispatcher" kind="class" language="C#" prot="public">
+    <compoundname>gamerunner::Dispatcher</compoundname>
+    <basecompoundref refid="classMonoBehaviour" prot="public" virt="non-virtual">MonoBehaviour</basecompoundref>
+    <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classgamerunner_1_1Dispatcher_1af0384e25a7bdb5fdc4b1f1759f966df9" prot="private" static="no" mutable="no">
+        <type>List&lt; <ref refid="interfacegamerunner_1_1IUpdatable" kindref="compound">IUpdatable</ref> &gt;</type>
+        <definition>List&lt;IUpdatable&gt; gamerunner.Dispatcher._updatables</definition>
+        <argsstring></argsstring>
+        <name>_updatables</name>
+        <qualifiedname>gamerunner.Dispatcher._updatables</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/tmp/github_repos_arch_doc_gen/Liam-PM/falling-blocks/unity/four-block/Assets/gamerunner/Dispatcher.cs" line="9" column="22" bodyfile="/tmp/github_repos_arch_doc_gen/Liam-PM/falling-blocks/unity/four-block/Assets/gamerunner/Dispatcher.cs" bodystart="9" bodyend="-1"/>
+        <referencedby refid="classgamerunner_1_1Dispatcher_1a9d1e1cfe69e5576b60156957e38c9177" compoundref="Dispatcher_8cs" startline="24" endline="27">gamerunner.Dispatcher.addUpdatable</referencedby>
+        <referencedby refid="classgamerunner_1_1Dispatcher_1aa86c7cbf28ac92b9f83ad47e2517ab6d" compoundref="Dispatcher_8cs" startline="11" endline="14">gamerunner.Dispatcher.Awake</referencedby>
+        <referencedby refid="classgamerunner_1_1Dispatcher_1a91638eb85fe0844b65e651b6d1fa504a" compoundref="Dispatcher_8cs" startline="16" endline="22">gamerunner.Dispatcher.Update</referencedby>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="private-func">
+      <memberdef kind="function" id="classgamerunner_1_1Dispatcher_1aa86c7cbf28ac92b9f83ad47e2517ab6d" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void gamerunner.Dispatcher.Awake</definition>
+        <argsstring>()</argsstring>
+        <name>Awake</name>
+        <qualifiedname>gamerunner.Dispatcher.Awake</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/tmp/github_repos_arch_doc_gen/Liam-PM/falling-blocks/unity/four-block/Assets/gamerunner/Dispatcher.cs" line="11" column="22" bodyfile="/tmp/github_repos_arch_doc_gen/Liam-PM/falling-blocks/unity/four-block/Assets/gamerunner/Dispatcher.cs" bodystart="11" bodyend="14"/>
+        <references refid="classgamerunner_1_1Dispatcher_1af0384e25a7bdb5fdc4b1f1759f966df9" compoundref="Dispatcher_8cs" startline="9">gamerunner.Dispatcher._updatables</references>
+      </memberdef>
+      <memberdef kind="function" id="classgamerunner_1_1Dispatcher_1a91638eb85fe0844b65e651b6d1fa504a" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void gamerunner.Dispatcher.Update</definition>
+        <argsstring>()</argsstring>
+        <name>Update</name>
+        <qualifiedname>gamerunner.Dispatcher.Update</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/tmp/github_repos_arch_doc_gen/Liam-PM/falling-blocks/unity/four-block/Assets/gamerunner/Dispatcher.cs" line="16" column="22" bodyfile="/tmp/github_repos_arch_doc_gen/Liam-PM/falling-blocks/unity/four-block/Assets/gamerunner/Dispatcher.cs" bodystart="16" bodyend="22"/>
+        <references refid="classgamerunner_1_1Dispatcher_1af0384e25a7bdb5fdc4b1f1759f966df9" compoundref="Dispatcher_8cs" startline="9">gamerunner.Dispatcher._updatables</references>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="public-func">
+      <memberdef kind="function" id="classgamerunner_1_1Dispatcher_1a9d1e1cfe69e5576b60156957e38c9177" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void gamerunner.Dispatcher.addUpdatable</definition>
+        <argsstring>(IUpdatable updatable)</argsstring>
+        <name>addUpdatable</name>
+        <qualifiedname>gamerunner.Dispatcher.addUpdatable</qualifiedname>
+        <param>
+          <type><ref refid="interfacegamerunner_1_1IUpdatable" kindref="compound">IUpdatable</ref></type>
+          <declname>updatable</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/tmp/github_repos_arch_doc_gen/Liam-PM/falling-blocks/unity/four-block/Assets/gamerunner/Dispatcher.cs" line="24" column="21" bodyfile="/tmp/github_repos_arch_doc_gen/Liam-PM/falling-blocks/unity/four-block/Assets/gamerunner/Dispatcher.cs" bodystart="24" bodyend="27"/>
+        <references refid="classgamerunner_1_1Dispatcher_1af0384e25a7bdb5fdc4b1f1759f966df9" compoundref="Dispatcher_8cs" startline="9">gamerunner.Dispatcher._updatables</references>
+        <referencedby refid="classGameInitialiser_1a3c17de8ad71d3bf686d47a856767f7cd" compoundref="GameInitialiser_8cs" startline="24" endline="73">GameInitialiser.Start</referencedby>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>MonoBehaviour</label>
+        <link refid="classMonoBehaviour"/>
+      </node>
+      <node id="1">
+        <label>gamerunner.Dispatcher</label>
+        <link refid="classgamerunner_1_1Dispatcher"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="3">
+        <label>List&lt; gamerunner.IUpdatable &gt;</label>
+      </node>
+      <node id="2">
+        <label>MonoBehaviour</label>
+        <link refid="classMonoBehaviour"/>
+      </node>
+      <node id="1">
+        <label>gamerunner.Dispatcher</label>
+        <link refid="classgamerunner_1_1Dispatcher"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="usage">
+          <edgelabel>-_updatables</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="/tmp/github_repos_arch_doc_gen/Liam-PM/falling-blocks/unity/four-block/Assets/gamerunner/Dispatcher.cs" line="7" column="11" bodyfile="/tmp/github_repos_arch_doc_gen/Liam-PM/falling-blocks/unity/four-block/Assets/gamerunner/Dispatcher.cs" bodystart="8" bodyend="28"/>
+    <listofallmembers>
+      <member refid="classgamerunner_1_1Dispatcher_1af0384e25a7bdb5fdc4b1f1759f966df9" prot="private" virt="non-virtual"><scope>gamerunner::Dispatcher</scope><name>_updatables</name></member>
+      <member refid="classgamerunner_1_1Dispatcher_1a9d1e1cfe69e5576b60156957e38c9177" prot="public" virt="non-virtual"><scope>gamerunner::Dispatcher</scope><name>addUpdatable</name></member>
+      <member refid="classgamerunner_1_1Dispatcher_1aa86c7cbf28ac92b9f83ad47e2517ab6d" prot="private" virt="non-virtual"><scope>gamerunner::Dispatcher</scope><name>Awake</name></member>
+      <member refid="classgamerunner_1_1Dispatcher_1a91638eb85fe0844b65e651b6d1fa504a" prot="private" virt="non-virtual"><scope>gamerunner::Dispatcher</scope><name>Update</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

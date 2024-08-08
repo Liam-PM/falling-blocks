@@ -1,0 +1,7 @@
+<map id="game.logic.IGravityStrategy" name="game.logic.IGravityStrategy">
+<area shape="rect" id="Node000001" title=" " alt="" coords="131,5,328,91"/>
+<area shape="rect" id="Node000002" href="$classgame_1_1logic_1_1LevelBasedGravityStrategy.html" title=" " alt="" coords="5,139,219,339"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,104,176,140,171,137,194,101"/>
+<area shape="rect" id="Node000003" href="$classgame_1_1logic_1_1TimeBasedGravityStrategy.html" title=" " alt="" coords="243,149,453,329"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="265,101,294,147,290,150,261,104"/>
+</map>

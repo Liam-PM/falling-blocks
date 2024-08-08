@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classScoreSubmit" xml:lang="en-US">
+<title>ScoreSubmit Class Reference</title>
+<indexterm><primary>ScoreSubmit</primary></indexterm>
+Inheritance diagram for ScoreSubmit:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classScoreSubmit__inherit__graph.svg"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+Collaboration diagram for ScoreSubmit:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classScoreSubmit__coll__graph.svg"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>void <link linkend="_classScoreSubmit_1ae8cd5fdf8c774668bd4d4cf0a005e2fc">Win</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Private Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>void <link linkend="_classScoreSubmit_1af0a6e59adba1ff8a2df8c95a55fe0697">Start</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classScoreSubmit_1ade4d0cc95fd6c77e0675b22697624ec0">Update</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Private Attributes    </title>
+        <itemizedlist>
+            <listitem><para>TMP_InputField <link linkend="_classScoreSubmit_1a9d0dfa0e26d6c90d482cae0add0a5f5b">_inputField</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_classScoreSubmit_1af0a6e59adba1ff8a2df8c95a55fe0697"/><section>
+    <title>Start()</title>
+<indexterm><primary>Start</primary><secondary>ScoreSubmit</secondary></indexterm>
+<indexterm><primary>ScoreSubmit</primary><secondary>Start</secondary></indexterm>
+<para><computeroutput>void ScoreSubmit.Start ( )<computeroutput>[inline]</computeroutput>, <computeroutput>[private]</computeroutput></computeroutput></para></section>
+<anchor xml:id="_classScoreSubmit_1ade4d0cc95fd6c77e0675b22697624ec0"/><section>
+    <title>Update()</title>
+<indexterm><primary>Update</primary><secondary>ScoreSubmit</secondary></indexterm>
+<indexterm><primary>ScoreSubmit</primary><secondary>Update</secondary></indexterm>
+<para><computeroutput>void ScoreSubmit.Update ( )<computeroutput>[inline]</computeroutput>, <computeroutput>[private]</computeroutput></computeroutput></para></section>
+<anchor xml:id="_classScoreSubmit_1ae8cd5fdf8c774668bd4d4cf0a005e2fc"/><section>
+    <title>Win()</title>
+<indexterm><primary>Win</primary><secondary>ScoreSubmit</secondary></indexterm>
+<indexterm><primary>ScoreSubmit</primary><secondary>Win</secondary></indexterm>
+<para><computeroutput>void ScoreSubmit.Win ( )<computeroutput>[inline]</computeroutput></computeroutput></para>Here is the call graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classScoreSubmit_ae8cd5fdf8c774668bd4d4cf0a005e2fc_cgraph.svg"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+</section>
+<section>
+<title>Member Data Documentation</title>
+<anchor xml:id="_classScoreSubmit_1a9d0dfa0e26d6c90d482cae0add0a5f5b"/><section>
+    <title>_inputField</title>
+<indexterm><primary>_inputField</primary><secondary>ScoreSubmit</secondary></indexterm>
+<indexterm><primary>ScoreSubmit</primary><secondary>_inputField</secondary></indexterm>
+<para><computeroutput>TMP_InputField ScoreSubmit._inputField<computeroutput>[private]</computeroutput></computeroutput></para></section>
+<para>
+The documentation for this class was generated from the following file:</para>
+/tmp/github_repos_arch_doc_gen/Liam-PM/falling-blocks/unity/four-block/Assets/<link linkend="_ScoreSubmit_8cs">ScoreSubmit.cs</link></section>
+</section>

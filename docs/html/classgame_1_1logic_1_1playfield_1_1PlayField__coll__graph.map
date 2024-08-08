@@ -1,0 +1,7 @@
+<map id="game.logic.playfield.PlayField" name="game.logic.playfield.PlayField">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,148,184,248"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="17,5,47,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="36,70,39,97,47,123,51,133,46,135,41,125,34,98,30,71"/>
+<area shape="rect" id="Node000003" href="$interfacegame_1_1logic_1_1tile_1_1ITileable.html" title=" " alt="" coords="72,5,243,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="150,72,130,125,127,134,122,132,126,123,145,70"/>
+</map>

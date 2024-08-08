@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classdebugtools_1_1DebugReceiver" xml:lang="en-US">
+<title>debugtools.DebugReceiver Class Reference</title>
+<indexterm><primary>debugtools.DebugReceiver</primary></indexterm>
+Collaboration diagram for debugtools.DebugReceiver:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classdebugtools_1_1DebugReceiver__coll__graph.svg"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>void <link linkend="_classdebugtools_1_1DebugReceiver_1ad644f8a097ae4a74950667f9fa8be94e">Action</link> (string action)</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Private Attributes    </title>
+        <itemizedlist>
+            <listitem><para>List&lt; string &gt; <link linkend="_classdebugtools_1_1DebugReceiver_1ace9c71792ad7306524f245f341a1a271">supportedCommands</link> = new List&lt;string&gt;() { &quot;vardump&quot; }</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_classdebugtools_1_1DebugReceiver_1ad644f8a097ae4a74950667f9fa8be94e"/><section>
+    <title>Action()</title>
+<indexterm><primary>Action</primary><secondary>debugtools.DebugReceiver</secondary></indexterm>
+<indexterm><primary>debugtools.DebugReceiver</primary><secondary>Action</secondary></indexterm>
+<para><computeroutput>void debugtools.DebugReceiver.Action (string action)<computeroutput>[inline]</computeroutput></computeroutput></para>Here is the caller graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classdebugtools_1_1DebugReceiver_ad644f8a097ae4a74950667f9fa8be94e_icgraph.svg"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+</section>
+<section>
+<title>Member Data Documentation</title>
+<anchor xml:id="_classdebugtools_1_1DebugReceiver_1ace9c71792ad7306524f245f341a1a271"/><section>
+    <title>supportedCommands</title>
+<indexterm><primary>supportedCommands</primary><secondary>debugtools.DebugReceiver</secondary></indexterm>
+<indexterm><primary>debugtools.DebugReceiver</primary><secondary>supportedCommands</secondary></indexterm>
+<para><computeroutput>List&lt;string&gt; debugtools.DebugReceiver.supportedCommands = new List&lt;string&gt;() { &quot;vardump&quot; }<computeroutput>[private]</computeroutput></computeroutput></para></section>
+<para>
+The documentation for this class was generated from the following file:</para>
+/tmp/github_repos_arch_doc_gen/Liam-PM/falling-blocks/unity/four-block/Assets/debugtools/<link linkend="_DebugReceiver_8cs">DebugReceiver.cs</link></section>
+</section>

@@ -1,0 +1,9 @@
+<map id="game.logic.tilespawner.TileSpawnerService" name="game.logic.tilespawner.TileSpawnerService">
+<area shape="rect" id="Node000001" title=" " alt="" coords="111,133,316,413"/>
+<area shape="rect" id="Node000002" href="$interfacegame_1_1service_1_1IService.html" title=" " alt="" coords="5,5,72,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,80,113,134,108,137,68,83"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="97,5,330,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,71,216,117,211,117,211,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="354,5,417,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="364,72,328,122,323,118,360,69"/>
+</map>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.10.0" xml:lang="en-US">
+  <compounddef id="DebugInvoker_8cs" kind="file" language="C#">
+    <compoundname>DebugInvoker.cs</compoundname>
+    <innerclass refid="classdebugtools_1_1DebugInvoker" prot="public">debugtools::DebugInvoker</innerclass>
+    <innernamespace refid="namespacedebugtools">debugtools</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1" refid="namespacedebugtools" refkind="compound"><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespacedebugtools" kindref="compound">debugtools</ref></highlight></codeline>
+<codeline lineno="2"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="3" refid="classdebugtools_1_1DebugInvoker" refkind="compound"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal"><ref refid="classdebugtools_1_1DebugInvoker" kindref="compound">DebugInvoker</ref></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="5" refid="classdebugtools_1_1DebugInvoker_1af4833acddba511f8574547a5a3860ab7" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/><ref refid="interfacedebugtools_1_1ICommand" kindref="compound">ICommand</ref><sp/><ref refid="classdebugtools_1_1DebugInvoker_1af4833acddba511f8574547a5a3860ab7" kindref="member">_command</ref>;</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight></codeline>
+<codeline lineno="7" refid="classdebugtools_1_1DebugInvoker_1a65aec816d26fec7939eabef77b31b038" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classdebugtools_1_1DebugInvoker_1a65aec816d26fec7939eabef77b31b038" kindref="member">SetCommand</ref>(<ref refid="interfacedebugtools_1_1ICommand" kindref="compound">ICommand</ref><sp/>command)</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="classdebugtools_1_1DebugInvoker_1af4833acddba511f8574547a5a3860ab7" kindref="member">_command</ref><sp/>=<sp/>command;</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"></highlight></codeline>
+<codeline lineno="12" refid="classdebugtools_1_1DebugInvoker_1a38798e5d21ce491254c5239347e57b60" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classdebugtools_1_1DebugInvoker_1a38798e5d21ce491254c5239347e57b60" kindref="member">ExecuteCommand</ref>()</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="classdebugtools_1_1DebugInvoker_1af4833acddba511f8574547a5a3860ab7" kindref="member">_command</ref>.<ref refid="interfacedebugtools_1_1ICommand_1a7e4dcebf64c3d8b8e892162811e95f96" kindref="member">Execute</ref>();</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="17"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
+    <location file="/tmp/github_repos_arch_doc_gen/Liam-PM/falling-blocks/unity/four-block/Assets/debugtools/DebugInvoker.cs"/>
+  </compounddef>
+</doxygen>
