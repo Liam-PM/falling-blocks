@@ -21,6 +21,16 @@ public class GameRunner : IUpdatable
         _serviceLocator = serviceLocator;
     }
 
+    /// <summary>
+    /// Updates the state of the object by processing gravity and potentially spawning new tiles.
+    /// </summary>
+    /// <remarks>
+    /// This method retrieves the current gravity from the <see cref="GravityService"/> and accumulates it in the <c>_gravitySum</c> variable.
+    /// It increments the frame counter and checks if the accumulated gravity exceeds a threshold of 100.0f.
+    /// If the threshold is exceeded, it resets the frame counter and the gravity sum, and then it spawns a new tile shape using the <see cref="TileSpawnerService"/>.
+    /// The newly created tile shape is then enqueued as a <see cref="SpawnTileEvent"/> in the event queue.
+    /// This method relies on a service locator to obtain necessary services and modifies internal state variables accordingly.
+    /// </remarks>
     public void Update()
     {
         var gravity = _serviceLocator.GetService<GravityService>();

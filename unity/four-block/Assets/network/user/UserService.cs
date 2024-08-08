@@ -5,6 +5,19 @@ namespace network.user
 {
     public class UserService
     {
+
+        /// <summary>
+        /// Retrieves the username from a remote API endpoint.
+        /// </summary>
+        /// <returns>A string representing the username retrieved from the API.</returns>
+        /// <remarks>
+        /// This method creates an HTTP GET request to the specified URL ("https://liamlime.com/api/user/username/1")
+        /// to fetch the username associated with a user. It utilizes an instance of <see cref="HttpRequestFactory"/>
+        /// to create the request and executes it asynchronously. The method waits for the response to complete
+        /// before logging the result and returning the username as a string.
+        /// Note that this method blocks the calling thread until the asynchronous operation is complete,
+        /// which may lead to performance issues if called on the main thread in a UI application.
+        /// </remarks>
         public string GetUserName()
         {
             var httpRequestFactory = new HttpRequestFactory();
